@@ -1,8 +1,8 @@
 # WM-Reply-test_project
 npm install --save react-yandex-maps  
 npm install semantic-ui --save  
-npm install semantic-ui-react 
-npm install semantic-ui-css --save  
+npm install semantic-ui-react   
+npm install semantic-ui-css --save    
 npm install html-react-parser --save  
 npm install --save redux  
 npm install --save react-redux  
